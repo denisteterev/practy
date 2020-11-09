@@ -3,7 +3,9 @@ body, h1, h2, h3, h4, p, a {
   font-size: 100%;
   font-weight: normal;
 }
-
+h4 {
+  text-align:center;
+}
 body {
   font-family: 'Inter', sans-serif;
 }
